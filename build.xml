@@ -1,0 +1,6 @@
+<project name="Git_Demo" default="build">
+  <target name="build">
+    <echo message="This is a Repository"/>
+  </target>
+</project>
+
